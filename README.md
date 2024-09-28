@@ -1,7 +1,7 @@
 # RAGDOLL ERC-20 OFFICIAL
 
 
-![Project Title](imgs/whoIs.png)
+![Project Title](imgs/photo_2024-09-28_10-54-12.jpg)
 
 # [1] About the RAGDOLL
 
